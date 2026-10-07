@@ -1,0 +1,10 @@
+import math
+
+x = 9.1
+#print(math.pi) pi sayısını yazdırıyor
+#print(math.e) e sayısını yazdırıyor
+#result = math.sqrt(x) sayının karekökü alınıyor
+#result = math.floor(x) virgüllü sayıyı alt taban sayıya gönderiyor
+#result = math.ceil(x) virgüllü sayıyı üst taban sayıya gönderiyor
+
+print(result)
